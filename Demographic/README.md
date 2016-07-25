@@ -1,0 +1,42 @@
+# Wellbeing Demographic Data
+Data pulled from the U.S. Census FactFinder site and curated for the Wellbeing Project
+
+The Excel spreadsheet has a worksheet for each area of interest, along with a summary page (found on the first worksheet) containing high level demographic information retrieved from all worksheets. The links below point directly to the census data that the worksheets were based on. Where "Subject" is listed, it refers to the portion of the census data that the worksheet is based on.
+
+## Factfinder Data Links
+
+Where Subject is identified, the data of interest is a portion of the page with that Subject in the first column
+
+- [Age_Sex](http://factfinder.census.gov/bkmk/table/1.0/en/ACS/12_5YR/DP05/1600000US0670000|8600000US90401|8600000US90402|8600000US90403|8600000US90404|8600000US90405) (Subject: SEX AND AGE)
+
+- [Ethnicity](http://factfinder.census.gov/bkmk/table/1.0/en/ACS/12_5YR/DP05/1600000US0670000|8600000US90401|8600000US90402|8600000US90403|8600000US90404|8600000US90405) (Subject: HISPANIC OR LATINO AND RACE)
+
+- [Race](http://factfinder.census.gov/bkmk/table/1.0/en/ACS/12_5YR/B02001/1600000US0670000|8600000US90401|8600000US90402|8600000US90403|8600000US90404|8600000US90405)
+
+- [Language](http://factfinder.census.gov/bkmk/table/1.0/en/ACS/12_5YR/S1601/1600000US0670000|8600000US90401|8600000US90402|8600000US90403|8600000US90404|8600000US90405)
+
+- [Education](http://factfinder.census.gov/bkmk/table/1.0/en/ACS/12_5YR/B15003/1600000US0670000|8600000US90401|8600000US90402|8600000US90403|8600000US90404|8600000US90405)
+
+- [Employment](http://factfinder.census.gov/bkmk/table/1.0/en/ACS/12_5YR/S2301/1600000US0670000|8600000US90401|8600000US90402|8600000US90403|8600000US90404|8600000US90405)
+
+- [Occupation](http://factfinder.census.gov/bkmk/table/1.0/en/ACS/12_5YR/DP03/1600000US0670000|8600000US90401|8600000US90402|8600000US90403|8600000US90404|8600000US90405)
+
+- [Income](http://factfinder.census.gov/bkmk/table/1.0/en/ACS/12_5YR/S1901/1600000US0670000|8600000US90401|8600000US90402|8600000US90403|8600000US90404|8600000US90405)
+
+- [Commute](http://factfinder.census.gov/bkmk/table/1.0/en/ACS/12_5YR/S0801/1600000US0670000|8600000US90401|8600000US90402|8600000US90403|8600000US90404|8600000US90405)
+
+- [Commute Time](http://factfinder.census.gov/bkmk/table/1.0/en/ACS/12_5YR/B08012/1600000US0670000|8600000US90401|8600000US90402|8600000US90403|8600000US90404|8600000US90405)
+
+- [Poverty](http://factfinder.census.gov/bkmk/table/1.0/en/ACS/12_5YR/DP03/1600000US0670000|8600000US90401|8600000US90402|8600000US90403|8600000US90404|8600000US90405) (Subject: PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL)
+
+- [Home Ownership](http://factfinder.census.gov/bkmk/table/1.0/en/ACS/12_5YR/B25008/1600000US0670000|8600000US90401|8600000US90402|8600000US90403|8600000US90404|8600000US90405)
+
+- [Rent](http://factfinder.census.gov/bkmk/table/1.0/en/ACS/12_5YR/B25064/1600000US0670000|8600000US90401|8600000US90402|8600000US90403|8600000US90404|8600000US90405)
+
+- [Housing Characteristics](http://factfinder.census.gov/bkmk/table/1.0/en/ACS/12_5YR/DP04/1600000US0670000|8600000US90401|8600000US90402|8600000US90403|8600000US90404|8600000US90405)
+
+- [Household Size](http://factfinder.census.gov/bkmk/table/1.0/en/ACS/12_5YR/B25010/1600000US0670000|8600000US90401|8600000US90402|8600000US90403|8600000US90404|8600000US90405)
+
+- [Family Size](http://factfinder.census.gov/bkmk/table/1.0/en/ACS/12_5YR/DP02/1600000US0670000|8600000US90401|8600000US90402|8600000US90403|8600000US90404|8600000US90405)
+
+- [Vehicles](http://factfinder.census.gov/bkmk/table/1.0/en/ACS/12_5YR/B08201/1600000US0670000|8600000US90401|8600000US90402|8600000US90403|8600000US90404|8600000US90405)
