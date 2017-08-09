@@ -1,11 +1,15 @@
 # Wellbeing Data
-Wellbeing data files from the U.S. Census FactFinder site and survey responses from Santa Monica residents.
 
-## Folder Descriptions
-**Demographic**
+The Wellbeing Index combines data we have, determines what new types of data we need to gather, and integrates in new ways all of the available information. It brings together a variety of data from City measures, an extensive resident survey and social media in six distinct yet connected categories of what research shows drive wellbeing.
 
-Data pulled from the U.S. Census FactFinder site and curated for the Wellbeing Project
+## Demographic
 
-**SurveyResponses**
+Data pulled from the [U.S. Census FactFinder](https://factfinder.census.gov) and curated for the Wellbeing Project.
 
-Santa Monica's Wellbeing project has drawn from many forms of data, including survey to see what Santa Monica residents say about themselves on various aspects of life.
+## Findings
+
+Distillation of research into the demographic, survey, social media, and City administrative data sources.
+
+## SurveyResponses
+
+Responses to our survey to see what Santa Monica residents say about themselves on various aspects of life.
