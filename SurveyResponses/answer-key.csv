@@ -1,0 +1,137 @@
+Question number,Answer value,Answer text
+1,0,Not at all satisfied
+1,1,1
+1,2,2
+1,3,3
+1,4,4
+1,5,5
+1,6,6
+1,7,7
+1,8,8
+1,9,9
+1,10,Completely satisfied
+2,1,Strongly disagree
+2,2,Disagree
+2,3,Neither agree nor disagree
+2,4,Agree
+2,5,Strongly agree
+3,1,None or almost none of the time
+3,2,Some of the time
+3,3,Most of the time
+3,4,All or almost all of the time
+4,1,Very bad
+4,2,Bad
+4,3,Fair
+4,4,Good
+4,5,Very good
+5,1,Very dissatisfied
+5,2,A little dissatisfied
+5,3,Moderately satisfied
+5,4,Very satisfied
+5,0,Does not apply
+6,1,Never or almost never
+6,2,Less than monthly
+6,3,1-3 times a month
+6,4,1-2 times a week
+6,5,Every day or almost every day
+7,1,Not at all
+7,2,A little
+7,3,Somewhat
+7,4,Extremely
+7,0,I do not have any religious or spiritual beliefs
+8,1,Never
+8,2,A few times
+8,3,1 to 2 times per month
+8,4,About every week
+8,5,More than once per week
+9,0,None
+9,1,1
+9,2,2
+9,3,3
+9,4,4
+9,5,5
+9,6,6 or more
+10,1,Less than 5
+10,2,5-6
+10,3,6-7
+10,4,7-8
+10,5,8-9
+10,6,Over 9
+11,0,Does not apply
+11,1,Applies
+12,0,Does not apply
+12,1,Applies
+13,1,Not confident at all
+13,2,2
+13,3,3
+13,4,4
+13,5,5
+13,6,6
+13,7,Very confident
+15,1,Not at all well
+15,2,Not so well
+15,3,Somewhat well
+15,4,Very well
+15,0,Not applicable
+16,1,Strongly disagree
+16,2,Disagree
+16,3,Neither agree nor disagree
+16,4,Agree
+16,5,Strongly agree
+17,1,Not at all
+17,2,To some extent
+17,3,A great deal
+18,1,Never or almost never
+18,2,Less than monthly
+18,3,1-3 times a month
+18,4,1-2 times a week
+18,5,Every day or almost every day
+19,1,Never
+19,2,Rarely
+19,3,Sometimes
+19,4,Often
+19,5,Every time I go out
+20,1,Very bad
+20,2,Bad
+20,3,Neither good nor bad
+20,4,Good
+20,5,Very good
+21,1,Strongly disagree
+21,2,Disagree
+21,3,Neither agree nor disagree
+21,4,Agree
+21,5,Strongly agree
+22,1,Not worried at all
+22,2,Not too worried
+22,3,Moderately worried
+22,4,Very worried
+22,0,Don't know
+23,1,Very unlikely
+23,2,Unlikely
+23,3,Neither likely nor unlikely
+23,4,Likely
+23,5,Very likely
+23,0,Don't know
+24,1,17 or under
+24,2,18 to 24
+24,3,25 to 34
+24,4,35 to 44
+24,5,45 to 54
+24,6,55 to 64
+24,7,65 to 74
+24,8,75 or over
+25,1,Male
+25,2,Female
+26,0,Does not apply
+26,1,Applies
+27,0,Does not apply
+27,1,Applies
+28,0,Does not apply
+28,1,Applies
+30,0,Does not apply
+30,1,Applies
+31,1,90401
+31,2,90402
+31,3,90403
+31,4,90404
+31,5,90405

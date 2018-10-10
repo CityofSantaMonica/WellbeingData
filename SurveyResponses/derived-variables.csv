@@ -1,0 +1,35 @@
+Variable number,Variable name,Variables combined,Role in index structure,Composite Method
+100,Language1,n/a,n/a,n/a
+101,Qcount,many,n/a,Count
+102,Duplicate,n/a,n/a,n/a
+103,wgt,Age;Gender;Asian;Hispanic;ZIP,n/a,n/a
+104,OtherLearningDummy,n/a,n/a,n/a
+105,ClassesCount,n/a,n/a,Count
+106,Skills,UseInternet;Cooking;RepairJobs,Subdomain,Z Scores
+107,Events,CulturalEvents;CommunityEvents;EnvironmentEvents;VibrantNightlife,Scale,Average
+108,HealthFacilities,HealthAccessible;HealthMaintained,Subdomain,Z Scores
+109,Worries,WorriedCreditCard;WorriedRent;WorriedJob,Subdomain,Z Scores
+110,Community,StopTalk;CanCountOn;RemainResident;TrustPeople;Belong;Borrow,Subdomain,Z Scores
+111,Sleep Deficit,HoursSleep,n/a,n/a
+112,IllnessCount,Asthma;Diabetes;HeartProblems;Cancer;Physical;Mental,n/a,Count
+113,HourseWorkBins,HoursWork,n/a,n/a
+114,UnderWorked,HoursWork,n/a,n/a
+115,OverWorked,HoursWork,n/a,n/a
+116,veryworrieds,CreditCard;PayRent;LoseJob,n/a,Count
+117,moderatelyworrieds,CreditCard;PayRent;LoseJob,n/a,Count
+118,PWB_Positive,LifeSat;Happy,Subdomain,Z Scores
+119,PWB_Negative,Sad;Stressed,Subdomain,Z Scores
+120,PWB_Flourishing,Optimistic;FreeDecide;Accomplishment;Worthwhile;SeldomTime;Resilience;Lonely,Subdomain,Z Scores
+121,Social_Networks,Lonely;MeetSocially;StrangersSmile,Subdomain,Z Scores
+122,Civic_Engagement,VoluntaryCharitable;CanInfluence;TimeEffortCommunity,Subdomain,Z Scores
+123,Pride_in_SM,MemberCommunity;OtherNhoods;BeautifulCity,Subdomain,Z Scores
+124,Quality_Access,HouseSat;OutDoors;CommunityPublicSpaces;Noise;HasBusinesses,Subdomain,Z Scores
+125,Learning_Access,HoursWorkBins;WorkLifeBalance,Subdomain,Z Scores
+126,Health_Behaviour,PhysicalActivity;FruitVegetables;HoursSleep,Subdomain,Z Scores
+127,DOM_CommunityOverall,Social_Networks;Civic_Engagement;Community,Domain,Z Scores
+128,DOM_Place,Pride_in_SM;Quality_Access;Drive,Domain,Z Scores
+129,DOM_Learning,ClassesCount;Skills;Learning_Access,Domain,Z Scores
+130,DOM_HealthOverall,Health;Health_Behaviour;HealthFacilities,Domain,Z Scores
+131,DOM_Economy,JobSat;Borrow;Worries;ChildrenStay,Domain,Z Scores
+132,DOM_PWB,PWB_Positive;PWB_Negative;PWB_Flourishing,Domain,Z Scores
+133,OVERALL,DOM_CommunityOverall;DOM_Economy;DOM_HealthOverall;DOM_Learning;DOM_Place;DOM_PWB,Overall Index,Z Scores
